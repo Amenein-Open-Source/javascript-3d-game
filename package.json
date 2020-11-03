@@ -1,0 +1,30 @@
+{
+  "name": "com.row.project",
+  "version": "1.0.0",
+  "description": "World where anyone can add anything with no limitation",
+  "main": "main.js",
+  "scripts": {
+    "test": "run",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/MehdiRF/real-open-world.git"
+  },
+  "keywords": [
+    "OpenWorld",
+    "World",
+    "JSWorld"
+  ],
+  "author": "Mehdi Roshan Fekr",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://gitlab.com/MehdiRF/real-open-world/issues"
+  },
+  "homepage": "https://gitlab.com/MehdiRF/real-open-world#README",
+  "dependencies": {
+    "electron": "^4.0.0",
+    "express": "^4.16.4",
+    "three": "^0.100.0"
+  }
+}
